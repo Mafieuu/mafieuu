@@ -1,7 +1,6 @@
 
-# Bonjour 👋 Bienvenue sur mon GitHub !
 
-Je suis Moussa DIEME,eleve ingenieur statisticien economiste.
+Je suis Moussa DIEME
 
 ---
 
@@ -29,7 +28,7 @@ Je serait ravi de travailler en equipe sur :
 
 ## 📊 Statistiques GitHub
 
-![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=mafieuu&show_icons=true&hide=stars&count_private=true&theme=radical)  
+![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=mafieuu&show_icons=true&count_private=true&theme=radical)  
 ![Langages principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=mafieuu&layout=compact&theme=radical)
 
 ---
